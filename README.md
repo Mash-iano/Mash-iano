@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mash-iano
-- 👀 I’m interested in web design and development
+- 👀 I’m interested in software engineering and development
 - 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on all tasks available
 - 📫 How to reach me is via my email ianmacharia290@gmail.com
